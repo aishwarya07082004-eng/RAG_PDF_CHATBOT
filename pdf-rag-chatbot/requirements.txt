@@ -1,6 +1,5 @@
-gradio>=4.44.0
-pypdf>=4.2.0
-sentence-transformers>=3.0.1
-transformers>=4.42.0
-torch>=2.2.0
-numpy>=1.24.0
+gradio
+PyPDF2
+faiss-cpu
+sentence-transformers
+transformers
